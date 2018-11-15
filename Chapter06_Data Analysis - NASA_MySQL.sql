@@ -5,10 +5,8 @@
 create schema nasa;
 use nasa;
 /* load the data as instructed in the book
-   open and execute each of these files
-Part III - nasa_meteorite_landings.sql
-Part III - nasa_global_landslide_catalog_export.sql
-Part III - nasa_cities_log_lat.sql
+   open and execute thos file
+   schema_data_06_nasa.sql
 */
 
 -- use these statements to look at the complete files and to see the number of rows.
