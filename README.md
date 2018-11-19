@@ -8,6 +8,7 @@ It's best to take the time while working through the book to modify these and tr
 ### File Descriptions
 * start with "Chapter_xx" are the sql scripts containing the code discussed in the chapter
 * start with "schema_data_xx" are the sql scripts that create the schema, tables and data for the given chapter.
+Note that some of these files are "zip" files as they were too big for github to accept.  They will need to be decompressed on your system prior to use.
 
 ### Folder Descriptions
 * Some of the data sets covered in the book have additional data used to complete the analysis. 
